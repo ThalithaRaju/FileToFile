@@ -1,0 +1,10 @@
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\bin\Debug\FileToFile.exe.config
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\bin\Debug\FileToFile.exe
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\bin\Debug\FileToFile.pdb
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\obj\Debug\FileToFile.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\obj\Debug\FileToFile.Form1.resources
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\obj\Debug\FileToFile.Properties.Resources.resources
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\obj\Debug\FileToFile.csproj.GenerateResource.cache
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\obj\Debug\FileToFile.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\obj\Debug\FileToFile.exe
+C:\Users\Thalitha\source\repos\FileToFile\FileToFile\obj\Debug\FileToFile.pdb
